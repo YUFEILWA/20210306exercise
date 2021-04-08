@@ -1,5 +1,11 @@
-Lesson1-homework 为第一次作业
+因为考研复试和毕业工作面试的事情，一直没有上传作业，在此补交。希望能得到各位老师们的谅解。
 
-Lesson2-homework 为第二次作业
+Lesson1-homework 为第一次作业 完成时间：3月11日
 
-Lesson3-homework 为第三次作业
+Lesson2-homework 为第二次作业 完成时间3月13日
+
+Lesson3-homework 为第三次作业 完成时间 3月18日
+
+3月24日布置第四次作业
+
+4月1日清明节放假，第四次作业延迟一周
