@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+    <title>PRACTICE</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script type="text/javascript">
+        function menuButton()
+          {
+            left=document.getElementsByClassName("left")[0]
+            if(left.style.display=="inline"){
+                left.style.display="";
+            }else{
+                left.style.display="inline";
+            }
+          }
+    </script>
+</head>
+<body>
+    <div class="top">
+        <div>
+        <span>MUSIC</span>
+        <button class="menu" onclick="menuButton()">menu</button>
+        </div>
+        <div class="top_buttons">
+        <button>sign up</button>
+        <button>sign in</button>
+        </div>
+    </div>
+    <div class="main">
+        <div class="left">
+            <button>1</button>
+            <button>2</button>
+        </div>
+        <div class="content">
+            <div class="info">
+                <div class="info_image">
+                    <img src="https://i.imgur.com/xDSTaej.jpg">
+                </div>
+                <div class="info_text">
+                    <div class="info_text_title">
+                        <h2>专辑照片</h2>
+                    </div>
+                    <div class="info_text_author">
+                        新裤子乐队
+                    </div>
+                </div>
+                <div class="info_buttons">
+
+                </div>
+            </div>
+            <div class="list">
+                <div class="list_item">
+                    <span>名称</span>
+                    <span class="author">歌手</span>
+                    <span>首发时间</span>
+                </div>
+                <div class="list_item">
+                    <span>名称</span>
+                    <span class="author">歌手</span>
+                    <span>首发时间</span>
+                </div>
+                <div class="list_item">
+                    <span>名称</span>
+                    <span class="author">歌手</span>
+                    <span>首发时间</span>
+                </div>
+                <div class="list_item">
+                    <span>名称</span>
+                    <span class="author">歌手</span>
+                    <span>首发时间</span>
+                </div>
+                <div class="list_item">
+                    <span>名称</span>
+                    <span class="author">歌手</span>
+                    <span>首发时间</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+    </div>
+</body>
